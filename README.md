@@ -4,7 +4,9 @@ Vehiclular Ad-Hoc Networks (VANET) are a standardized category of Mobile Ad Hoc 
 for vehicle-to-vehicle communication. Quite a few simple VANET
 protocols have been designed to meet vehicle integration needs,
 but some appropriate mobility systems are essential to test the
-VANET protocol.In this research work, we propose a VANET
+VANET protocol.
+
+In this research work, we propose a VANET
 model using TDMA as an access medium to transmit the data
 into various resource blocks and for our VANET simulations to
 be more accurate, we made an effort to reduce the total time
